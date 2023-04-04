@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uche", "Uche.csproj", "{1125D870-AF28-44DF-BA81-D9760F9DCE8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1125D870-AF28-44DF-BA81-D9760F9DCE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1125D870-AF28-44DF-BA81-D9760F9DCE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1125D870-AF28-44DF-BA81-D9760F9DCE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1125D870-AF28-44DF-BA81-D9760F9DCE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44442A1C-80C3-424F-81DF-3CEFA714D53C}
+	EndGlobalSection
+EndGlobal
